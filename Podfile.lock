@@ -1,0 +1,30 @@
+PODS:
+  - CocoaLumberjack (3.7.4):
+    - CocoaLumberjack/Core (= 3.7.4)
+  - CocoaLumberjack/Core (3.7.4)
+  - SVGKit (3.0.0):
+    - CocoaLumberjack (~> 3.0)
+  - Usercentrics (2.7.0)
+  - UsercentricsUI (2.7.0):
+    - Usercentrics (= 2.7.0)
+
+DEPENDENCIES:
+  - SVGKit
+  - UsercentricsUI (= 2.7.0)
+
+SPEC REPOS:
+  trunk:
+    - CocoaLumberjack
+    - SVGKit
+    - Usercentrics
+    - UsercentricsUI
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 543c79c114dadc3b1aba95641d8738b06b05b646
+  SVGKit: 1ad7513f8c74d9652f94ed64ddecda1a23864dea
+  Usercentrics: a448ea5f8b8439de41794ede4d7d382af64bb34c
+  UsercentricsUI: 5e72f4c6dac0502e6a40c33ce4876bf1ebf6a52a
+
+PODFILE CHECKSUM: a63296475c3f091237d4ff918580155989536bcb
+
+COCOAPODS: 1.11.3
